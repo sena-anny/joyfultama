@@ -8,7 +8,7 @@ body{
     font-size: 75%;
     font-family: 'メイリオ' ,Meiryo, 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ＭＳ Ｐゴシック' , 'Osaka' ,sans-serif;
     color: #333333; /* 標準文字色 */
-    background-image : url(bg_10D.png);
+    background-image : url(../images/bg_10D.png);
 }
 /* Safari用ハック 文字サイズ調整 */
 /*\*/
@@ -34,7 +34,7 @@ img{
     margin-bottom: 0;
     margin-left: auto;
     position: relative;
-    background-image : url(innerBg_10D.png);
+    background-image : url(../images/innerBg_10D.png);
     background-repeat: repeat-y;
     background-position: center top;
 }
@@ -44,7 +44,7 @@ img{
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
-    background-image : url(bg_10D.png);
+    background-image : url(../images/bg_10D.png);
     background-position: center top;
 }
 
@@ -64,7 +64,7 @@ img{
     padding-right: 30px;
     background-position: bottom center;
     background-repeat: no-repeat;
-    background-image : url(mainimage_10D_01.png);
+    background-image : url(../images/mainimage_10D_01.png);
 }
 .hpb-layoutset-02 #hpb-inner
 {
@@ -134,13 +134,13 @@ img{
     clear: both;
     position: relative;
     padding-bottom: 20px;
-    background-image : url(bg_10D.png);
+    background-image : url(../images/bg_10D.png);
     background-repeat: repeat;
     background-position: top center;
 }
 #hpb-footerMain{
     padding-top: 30px;
-    background-image : url(footerBg_10D.png);
+    background-image : url(../images/footerBg_10D.png);
     background-position: top center;
     background-repeat: no-repeat;
 }
@@ -155,7 +155,7 @@ img{
     height: 46px;
     width: 890px;
     overflow: hidden;
-    background-image : url(navBg_10D_01.png);
+    background-image : url(../images/navBg_10D_01.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     top: -46px;
@@ -167,7 +167,7 @@ img{
 /* コンテンツ配置領域 */
 /* トップページメインイメージ */
 .hpb-layoutset-01 #hpb-title h2{
-    background-image : url(topTitleBg_10D.png);
+    background-image : url(../images/topTitleBg_10D.png);
     text-align: left;
     overflow: hidden;
     margin-top: 0;
@@ -241,28 +241,28 @@ img{
 #hpb-nav a:link{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(navItemBg_10D_01.png);
+    background-image : url(../images/navItemBg_10D_01.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
 #hpb-nav a:visited{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(navItemBg_10D_01.png);
+    background-image : url(../images/navItemBg_10D_01.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
 #hpb-nav a:hover{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(navItemBg_10D_01_on.png);
+    background-image : url(../images/navItemBg_10D_01_on.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
 #hpb-nav a:active{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(.png);
+    background-image : url(../images/.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
