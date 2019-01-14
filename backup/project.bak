@@ -6,7 +6,7 @@
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no">
-<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.10.0 for Windows">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.9.0 for Windows">
 <meta name="Keywords" content="事業紹介,ジョイフル,JOY,多摩,地域生活支援事業,放課後等デイサービス,特色,カーサ・フェリス">
 <meta name="Description" content="一般社団法人カーサ・フェリスが提供している事業を紹介します。地域生活支援事業JOYと放課後等デイサービスジョイフルという事業の特色がまとめてありますのでご覧ください。">
 <title>事業紹介 - 一般社団法人　Casa Feliz (カーサ・フェリス)</title>
@@ -22,7 +22,7 @@
   <!-- header -->
   <div id="hpb-header">
     <div id="hpb-headerMain">
-      <h1>多摩市　一般社団法人　カーサ・フェリス</h1>
+      <h1>多摩市　一般社団法人　Casa Feliz (カーサ・フェリス)</h1>
     </div>
     <div id="hpb-headerLogo" style="text-align : left;
 	width : 528px;
@@ -31,12 +31,11 @@
       </b><font size="+2" style="font-size : 150%;" face="Andalus"><b>　Casa Feliz </b></font><font face="Andalus" size="-1" style="font-size : 83%;"><b>（カーサ・フェリス）<br>
       </b></font></h1>
     </div>
-    <div id="hpb-headerExtra1" style="width : 285px;">
+    <div id="hpb-headerExtra1" style="width : 304px;">
       <p class="tel"><span>お問い合わせは<br>
-      </span>TEL./FAX. <font size="+1">042-316-9229</font><br>
-      〒 多摩市諏訪2丁目2番地<br>
-      ブリリア多摩ニュータウン<br>
-      B棟2号室</p>
+      </span>TEL/FAX.042-313-7633</p>
+      <p class="address"><font size="+1">多摩市永山１−８−１７<br>
+      ボヌール永山２０８</font></p>
     </div>
   </div>
   <!-- header end --><!-- inner -->
@@ -66,7 +65,8 @@
           <hr>
           <h3><a href="aboutjoyful.html"><font size="+2" style="font-size : 150%;">放課後等デイサービス　ジョイフル</font></a></h3>
           <img src="policy-img02.jpg" width="250" height="190" alt="目標イメージ" class="right">
-          <p><font size="+1">◆ジョイフルの特色</font><br>
+          <p><font size="+1">※５月開業予定です<br>
+          ◆ジョイフルの特色</font><br>
           <font size="+1">・子どもの放課後活動のためにご利用ください。<br>
           </font><br>
           <br>
@@ -93,7 +93,7 @@
         <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">top&nbsp;page</span></a> 
         <li id="nav-policy"><a href="project.html"><span class="ja">事業紹介</span><span class="en">policy</span></a> 
         <li id="nav-entrance"><a href="access.html"><span class="ja">アクセス</span><span class="en">entrance</span></a> 
-        <li id="nav-company"><a href="recruitment.html"><span class="ja">職員・学生バイト募集</span></a> 
+        <li id="nav-company"><a href="recruitment.html"><span class="ja">職員・ボランティア募集</span></a> 
         <li><a href="contact.html"><span class="ja">お問い合わせ</span><span class="en">company</span></a> 
       </ul>
     </div>
@@ -103,12 +103,12 @@
         <h3><span class="en">information</span></h3>
         <h4>一般社団法人 Casa Feliz　</h4>
         <p>▼所在地<br>
-        　〒206-0024<br>
-        　東京都多摩市諏訪２ー２<br>
-        　ブリリア多摩ニュータウン<br>
-        　　B棟２号室<br>
+        　〒206-0025<br>
+        　東京都多摩市永山<br>
+        　　１−８−１７<br>
+        　　ボヌール永山２０８<br>
         ▼電話番号<br>
-        　042-316-9229<br>
+        　042-313-7633<br>
         ▼メールアドレス<br>
         joyfultama@yahoo.co.jp</p>
       </div>

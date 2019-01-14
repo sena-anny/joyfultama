@@ -7,7 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="format-detection" content="telephone=no">
 <meta name="GENERATOR" content="JustSystems Homepage Builder Version 19.0.10.0 for Windows">
-<title></title>
+<meta name="Keywords" content="カーサ・フェリス,ジョイフル,JOY,アクセス,場所,永山,多摩,行き方">
+<meta name="Description" content="一般社団法人　Casa Feliz(カーサ・フェリス)事務所、放課後等デイサービス　ジョイフル事業所、地域生活支援事業　JOY事業所へのアクセス">
+<title>入所のご案内 - 一般社団法人　Case Feliz</title>
 <link rel="stylesheet" href="hpbparts.css" type="text/css" id="hpbparts">
 <link rel="stylesheet" href="container_10D_2c_top.css" type="text/css" id="hpbcontainer">
 <link rel="stylesheet" href="main_10D_2c.css" type="text/css" id="hpbmain">
@@ -43,25 +45,33 @@
     <div id="hpb-wrapper">
       <!-- page title -->
       <div id="hpb-title">
-        <h2><span class="ja">見出し</span><span class="en">HEADLINE</span></h2>
+        <h2><font size="+2" style="font-size : 150%;"><span class="ja">アクセス</span><span class="en">Access</span></font></h2>
       </div>
       <!-- page title end --><!-- main -->
       <div id="hpb-main">
-        <div class="hpb-parts-cnt-01 hpb-parts-cnt-style clearfix">
-          <h3>見出し</h3>
-          <div class="hpb-parts-cbox-01 hpb-parts-cbox-style clearfix">文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          文章を入力してください。<br>
-          </div>
+        <!-- entrance -->
+        <div id="entrance">
+          <hr>
+          <h3><font size="+2" style="font-size : 150%;">アクセス</font></h3>
+          <br>
+          <p><font size="+1"><strong>・一般社団法人　Casa Feliz（カーサ・フェリス）事務所<br>
+          ・放課後等デイサービス　ジョイフル事業所<br>
+          ・地域生活支援事業　JOY事業所</strong><br>
+          <br>
+          ▼住所<br>
+          〒206-0024　東京都多摩市諏訪２丁目２番地<br>
+          　　　　　　　ブリリア多摩ニュータウンB棟２号室<br>
+          <br>
+          ▼電車をご利用の方<br>
+          京王永山駅　徒歩7分<br>
+          小田急永山駅　徒歩7分<br>
+          <br>
+          </font></p>
+          <hr>
+          <hr>
           <div id="pagetop"><a href="#hpb-container">このページの先頭へ</a></div>
         </div>
+        <!-- entrance end -->
       </div>
       <!-- main end -->
     </div>
@@ -69,11 +79,11 @@
     <div id="hpb-nav">
       <h3 class="hpb-c-index">ナビゲーション</h3>
       <ul>
-        <li id="nav-toppage"><a href="#"><span class="ja">トップページ</span><span class="en">top&nbsp;page</span></a>
-        <li id="nav-policy"><a href="#"><span class="ja">教育方針</span><span class="en">policy</span></a>
-        <li id="nav-entrance"><a href="#"><span class="ja">入所のご案内</span><span class="en">entrance</span></a>
-        <li id="nav-program"><a href="#"><span class="ja">教育内容</span><span class="en">program</span></a>
-        <li id="nav-company"><a href="#"><span class="ja">会社案内</span><span class="en">company</span></a>
+        <li id="nav-toppage"><a href="index.html"><span class="ja">トップページ</span><span class="en">top&nbsp;page</span></a> 
+        <li id="nav-policy"><a href="project.html"><span class="ja">事業紹介</span><span class="en">policy</span></a> 
+        <li id="nav-entrance"><a href="access.html"><span class="ja">アクセス</span><span class="en">entrance</span></a> 
+        <li id="nav-company"><a href="recruitment.html"><span class="ja">職員・学生バイト募集</span></a> 
+        <li><a href="contact.html"><span class="ja">お問い合わせ</span><span class="en">company</span></a> 
       </ul>
     </div>
     <!-- navi end --><!-- aside -->
@@ -106,10 +116,10 @@
   <!-- inner end --><!-- footer -->
   <div id="hpb-footer">
     <div id="hpb-footerMain">
-      <p>copyright&copy;20XX&nbsp;Casa Feliz&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+      <p>copyright&copy;2016&nbsp;Koji Nakamura&nbsp;all&nbsp;rights&nbsp;reserved.</p>
     </div>
   </div>
   <!-- footer end -->
 </div>
-<script type="text/javascript" src="navigation.js">hpb-navigation-js</script> </body>
+<!-- container end --><script type="text/javascript" src="navigation.js">hpb-navigation-js</script> </body>
 </html>
