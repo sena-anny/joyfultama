@@ -30,7 +30,7 @@
 #hpb-headerLogo{
     width: 400px;
     float: left;
-    background-image : url(../images/logoBg_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/logoBg_10D.png);
     background-repeat: no-repeat;
     background-position: left top;
     padding-top: 20px;
@@ -50,7 +50,7 @@
     text-indent: -9999px;
     overflow: hidden;
     height: 35px;
-    background-image : url(../images/logo_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/logo_10D.png);
     background-position: center left;
     background-repeat: no-repeat;
 }
@@ -82,7 +82,7 @@
     font-size: 1.5em;
     line-height: 20px;
     text-align: right;
-    background-image : url(../images/tel_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/tel_10D.png);
     background-repeat: no-repeat;
     background-position: left top;
 }
@@ -174,7 +174,7 @@
 
 #banner a#banner-access{
     /* アクセスバナー */
-    background-image : url(../images/top_banner_10D_01.png);
+    background-image : url(http://localhost/casa_feliz/images/top_banner_10D_01.png);
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -182,7 +182,7 @@
 
 /* 店舗情報 */
 #shopinfo{
-    background-image : url(../images/shopInfoBg_10D_bottom.png);
+    background-image : url(http://localhost/casa_feliz/images/shopInfoBg_10D_bottom.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     padding-bottom: 8px;
@@ -194,7 +194,7 @@
     text-align: center;
     color: #fc9d16;
     font-weight: normal;
-    background-image : url(../images/shopinfoTitle_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/shopinfoTitle_10D.png);
     background-repeat: no-repeat;
     background-position: right top;
     padding-left: 20px;
@@ -215,7 +215,7 @@
     padding-top: 10px;
     color: #000000;
     font-weight: normal;
-    background-image : url(../images/shopinfoBg_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/shopinfoBg_10D.png);
     background-repeat: repeat-y;
     background-position: right center;
     padding-left: 20px;
@@ -229,7 +229,7 @@
     margin-right: 0;
     margin-bottom: 0;
     line-height: 1.5;
-    background-image : url(../images/shopinfoBg_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/shopinfoBg_10D.png);
     background-repeat: repeat-y;
     background-position: right center;
     padding-left: 20px;
@@ -327,7 +327,7 @@ hr{
 }
 
 .hpb-layoutset-02 h2{
-    background-image : url(../images/titleBg_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/titleBg_10D.png);
     background-position: top left;
     background-repeat: no-repeat;
     margin-top: 0px;
@@ -362,7 +362,7 @@ hr{
     padding-bottom: 12px;
     padding-left: 40px;
     text-align: left;
-    background-image : url(../images/indexBg_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/indexBg_10D.png);
     background-position: bottom left;
     background-repeat: no-repeat;
     color: #FD7700;
@@ -602,7 +602,7 @@ input.s{
     width: 580px;
     margin-right: auto;
     padding-bottom: 8px;
-    background-image : url(../images/toppageNewsBg_10D_01.png);
+    background-image : url(http://localhost/casa_feliz/images/toppageNewsBg_10D_01.png);
     background-repeat: no-repeat;
     background-position: left bottom;
 }
@@ -614,7 +614,7 @@ input.s{
     padding-left: 45px;
     padding-top: 20px;
     font-size: 1.2em;
-    background-image : url(../images/topIndexBg_10D_01.png);
+    background-image : url(http://localhost/casa_feliz/images/topIndexBg_10D_01.png);
     background-repeat: no-repeat;
     background-position: left bottom;
 }
@@ -633,7 +633,7 @@ input.s{
     background-color: #ffffff;
 }
 #hpb-wrapper #toppage-news dl dt{
-    background-image : url(../images/point_10D.png);
+    background-image : url(http://localhost/casa_feliz/images/point_10D.png);
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 15px;
@@ -737,7 +737,7 @@ input.s{
 	#hpb-nav h3.hpb-c-index{
 		width: 27px;
 		height: 20px;
-		background-image : url(../images/btn_menu.png);
+		background-image : url(http://localhost/casa_feliz/images/btn_menu.png);
 		background-position: top left;
 		background-repeat: no-repeat;
 		margin-left: 10px;
