@@ -39,7 +39,7 @@ img{
     background-position: center top;
 }
 
-#hpb-header{
+header{
     width: 870px;
     margin-left: auto;
     margin-right: auto;
@@ -130,7 +130,7 @@ img{
     padding-top: 19px;
 }
 
-#hpb-footer{
+footer{
     clear: both;
     position: relative;
     padding-bottom: 20px;
@@ -321,7 +321,7 @@ img{
 		background-image : none;
 		background-color: #FFFFFF;
 	}
-	#hpb-header{
+	header{
 		width: 100%;
 		padding-bottom: 10px;
 	}
@@ -384,7 +384,7 @@ img{
 		margin-right: auto;
 		padding-top: 0px;
 	}
-	#hpb-footer{
+	footer{
 		padding-bottom: 15px;
 	}
 	#hpb-footerMain{

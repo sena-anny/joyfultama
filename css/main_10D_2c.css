@@ -5,17 +5,11 @@
 --------------------------------------------------------*/
 /* ヘッダー内パーツ */
 #hpb-headerMain{
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
+    margin: 0;
 }
 
 #hpb-headerMain h1{
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
+    margin: 0;
     padding-top: 5px;
     padding-right: 0;
     padding-bottom: 0;
@@ -28,31 +22,30 @@
 }
 
 #hpb-headerLogo{
-    width: 400px;
+    width: 120px;
     float: left;
-    background-image : url(http://localhost/casa_feliz/images/logoBg_10D.png);
-    background-repeat: no-repeat;
-    background-position: left top;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    padding: 20px 10px;
 }
 
 #hpb-headerLogo a{
-    display: block;
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 35px;
-    padding-top: 0;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-left: 0;
+    margin: 0;
+    padding: 0;
     text-indent: -9999px;
     overflow: hidden;
-    height: 35px;
-    background-image : url(http://localhost/casa_feliz/images/logo_10D.png);
-    background-position: center left;
-    background-repeat: no-repeat;
+}
+
+.hpb-headerTitle {
+    width: 400px;
+    float: left;
+    text-align: left;
+}
+
+.hpb-headerTitle .hpb-headerSubTitle{
+
+}
+
+.hpb-headerTitle h1{
+    
 }
 
 #hpb-headerExtra1{
