@@ -75,8 +75,17 @@ header{
     visibility: hidden;
 }
 
+#hpb-main-image img{
+    width: 820px;
+    margin-top: 0;
+    margin-right: 20px;
+    margin-bottom: 0;
+    margin-left: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+
 .hpb-layoutset-01 #hpb-wrapper{
-    padding-bottom: 350px;
+    padding-bottom: 30px;
     float: left;
     width: 644px;
 }
@@ -119,7 +128,7 @@ header{
 }
 .hpb-layoutset-01 #hpb-aside{
     /*	position:absolute; 	top:230px; 	left:640px;*/
-    padding-top: 230px;
+    padding-top: 10px;
     padding-bottom: 15px;
 }
 .hpb-layoutset-02 #hpb-aside{
@@ -174,8 +183,9 @@ footer{
     padding-top: 20px;
     padding-right: 10px;
     padding-bottom: 20px;
-    padding-left: 50px;
-    font-size: 14px;
+    padding-left: 55px;
+    font-size: 2em;
+    font-weight: bold;
     color: #ff3a3a;
 }
 
