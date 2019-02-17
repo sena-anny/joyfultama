@@ -35,72 +35,67 @@
 }
 
 .hpb-headerTitle {
-    width: 400px;
+    width: 300px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 10px;
     float: left;
     text-align: left;
 }
 
-.hpb-headerTitle .hpb-headerSubTitle{
-
+.hpb-headerTitle .hpb-headerSubTitle{ 
+    font-size: 1.5em;
+    font-weight: bold;
 }
 
 .hpb-headerTitle h1{
-    
+    margin: 10px;
+    font-family: "Nikukyu",'メイリオ' ,Meiryo, 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ＭＳ Ｐゴシック' , 'Osaka' ,sans-serif;
+    font-size: 4em;
 }
 
-#hpb-headerExtra1{
-    width: 360px;
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
-    padding-top: 8px;
-    padding-right: 0;
-    padding-bottom: 0;
-    padding-left: 0;
+#hpb-headerContact{
+    width: 300px;
+    padding: 0.2em 0.5em;
+    margin: 2em 2em;
+    color: #565656;
+    background: #ffeaea;
+    box-shadow: 0px 0px 0px 10px #ffeaea;
+    border: dashed 2px #ffc3c3;
+    border-radius: 8px;
     float: right;
-    color: #7c5e0f;
 }
 
-#hpb-headerExtra1 p.tel{
-    /* 電話番号の文字設定 */
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
-    padding-top: 0;
-    padding-right: 17px;
-    padding-bottom: 5px;
-    padding-left: 0;
+#hpb-headerContact p{
+    margin: 0;
+    padding: 0;
+}
+
+#hpb-headerContact .header-sub-contact{
+    display: block;
+    text-align: center;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 0 0.2em 0;
+}
+
+#hpb-headerContact .header-sub-tel{
+    display: block;
     font-size: 1.5em;
-    line-height: 20px;
-    text-align: right;
-    background-image : url(http://localhost/casa_feliz/images/tel_10D.png);
+    padding-left: 40px;
+    background-image : url(http://localhost/casa_feliz/images/tel.png);
+    background-position: left;
     background-repeat: no-repeat;
-    background-position: left top;
 }
 
-#hpb-headerExtra1 p.tel span{
-    font-size: 0.7em; /* 電話番号の「TEL」文字設定 */
-}
-
-#hpb-headerExtra1 p.address{
-    /* 住所文字設定 */
-    margin-top: 0;
-    margin-right: 0;
-    margin-bottom: 0;
-    margin-left: 0;
-    padding-top: 0;
-    padding-right: 17px;
-    padding-bottom: 0;
-    padding-left: 0;
-    line-height: 20px;
-    text-align: right;
-    font-size: 1.0em;
-}
-
-#hpb-headerExtra2
-{
+#hpb-headerContact .header-sub-address{
+    display: block;
+    font-size: 1.5em;
+    padding-left: 40px;
+    background-image : url(http://localhost/casa_feliz/images/address.png);
+    background-position: left;
+    background-repeat: no-repeat;
 }
 
 /* フッター内パーツ */
@@ -670,7 +665,7 @@ input.s{
 		margin-left: auto;
 		margin-right: auto;
 	}
-	#hpb-headerExtra1{
+	#hpb-headerContact{
 		width: 98%;
 		margin-left: auto;
 		margin-right: auto;
@@ -678,16 +673,16 @@ input.s{
 		letter-spacing: 0.1em;
 		text-align: right;
 	}
-	#hpb-headerExtra1 p.tel{
+	#hpb-headerContact p.tel{
 		padding-right: 5px;
 		padding-left: 35px;
 		text-align: left;
 		display: inline-block;
 	}
-	#hpb-headerExtra1 p.tel span{
+	#hpb-headerContact p.tel span{
 		display: block;
 	}
-	#hpb-headerExtra1 p.address{
+	#hpb-headerContact p.address{
 		padding-left: 10px;
 		padding-right: 5px;
 	}
