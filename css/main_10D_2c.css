@@ -135,7 +135,7 @@
 
 #banner li{
     display: block;
-    width: 190px;
+    width: 200px;
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 5px;
@@ -143,18 +143,32 @@
 
 #banner li a{
     display: block;
-    height: 31px;
+    height: 40px;
     text-indent: -9999px;
     overflow: hidden;
 }
 
-#banner a#banner-access{
+a#banner-access{
     /* アクセスバナー */
-    background-image : url(http://localhost/casa_feliz/images/top_banner_10D_01.png);
+    background-image : url(http://localhost/casa_feliz/images/access-banner.png);
     background-position: center center;
     background-repeat: no-repeat;
 }
 
+a#banner-access:hover{
+    opacity: 0.5 ;
+}
+
+a#banner-joyful{
+    /* ジョイフルバナー */
+    background-image : url(http://localhost/casa_feliz/images/joyful-banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+a#banner-joyful:hover{
+    opacity: 0.5 ;
+}
 
 /* 店舗情報 */
 #shopinfo{
@@ -183,7 +197,7 @@
 }
 
 #shopinfo h4{
-    margin-left: 11px;
+    margin-left: 5px;
     margin-right: 0;
     margin-bottom: 0;
     font-weight: normal;
@@ -211,6 +225,38 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 10px;
+}
+
+#shopinfo .aside-sub-address{
+    display: block;
+    font-size: 1em;
+    padding-top: 10px;
+    padding-left: 35px;
+    background-image : url(http://localhost/casa_feliz/images/address.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+#shopinfo .aside-sub-tel{
+    display: block;
+    font-size: 1em;
+    padding-top: 20px;
+    padding-left: 35px;
+    padding-bottom: 20px;
+    background-image : url(http://localhost/casa_feliz/images/tel.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+#shopinfo .aside-sub-mail{
+    display: block;
+    font-size: 1em;
+    padding-top: 10px;
+    padding-left: 35px;
+    padding-bottom: 10px;
+    background-image : url(http://localhost/casa_feliz/images/mail.png);
+    background-position: left;
+    background-repeat: no-repeat;
 }
 
 /*--------------------------------------------------------
