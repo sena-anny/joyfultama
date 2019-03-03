@@ -51,8 +51,9 @@
 
 .hpb-headerTitle h1{
     margin: 10px;
-    font-family: "Nikukyu",'メイリオ' ,Meiryo, 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ＭＳ Ｐゴシック' , 'Osaka' ,sans-serif;
+    font-family: 'メイリオ' ,Meiryo, 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ＭＳ Ｐゴシック' , 'Osaka' ,sans-serif;
     font-size: 4em;
+    font-weight: bold
 }
 
 #hpb-headerContact{
@@ -746,9 +747,28 @@ input.s{
 
 #hpb-main .about-joyful-details{
     text-align: left;
-    font-size: 1.5em;
+    font-size: 1.2em;
+}
+/* accessページ */
+#hpb-main .about-joyful-details li{
+    margin-left: 15px;
+    list-style: none;
 }
 
+/* recruiteページ */
+#hpb-main .about-joyful-details .check-list{
+    display: block;
+    margin-left: 0;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    list-style: none;
+}
+
+#hpb-main .about-joyful-details .icon-orange{
+    color: #e69100;
+}
+
+/* about joyfulページ */
 #hpb-main .about-joyful-details i{
     margin-right: 5px;
 }
@@ -785,6 +805,11 @@ input.s{
     padding: 10px 0;
     height: auto;
     opacity: 1;
+}
+
+/* 画像に関して */
+#hpb-main .insert-img {
+    width:100%;
 }
 
 /* =======================================================
