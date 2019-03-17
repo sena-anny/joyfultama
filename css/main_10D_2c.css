@@ -841,29 +841,55 @@ input.s{
 		max-width: 100%;
 		background-position: top center;
 		margin-left: auto;
-		margin-right: auto;
-	}
+        margin-right: auto;
+    }
+    #hpb-headerLogo img{
+        float: none;
+    }
+    .hpb-headerTitle{
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 12px;
+		padding-bottom: 15px;
+        text-align: center;
+        float: none;
+    }
 	#hpb-headerContact{
-		width: 98%;
+		/*width: 98%;*/
 		margin-left: auto;
-		margin-right: auto;
+        margin-right: auto;
+        margin-top: 12px;
+        margin-bottom: 15px;
 		float: none;
 		letter-spacing: 0.1em;
-		text-align: right;
-	}
-	#hpb-headerContact p.tel{
-		padding-right: 5px;
-		padding-left: 35px;
-		text-align: left;
-		display: inline-block;
-	}
-	#hpb-headerContact p.tel span{
-		display: block;
-	}
-	#hpb-headerContact p.address{
-		padding-left: 10px;
-		padding-right: 5px;
-	}
+		text-align: center;
+    }
+    #hpb-headerContact p{
+        margin: 0;
+        padding: 0;
+    }
+    
+    #hpb-headerContact .header-sub-contact{
+        text-align: center;
+        font-weight: bold;
+        margin: 0;
+        padding: 0;
+    }
+    
+    #hpb-headerContact .header-sub-tel{
+        display: inline-block;
+        font-size: 1.5em;
+    }
+    
+    #hpb-headerContact .header-sub-address{
+        display: inline-block;
+        font-size: 1.5em;
+    }
+    
+	#hpb-main-image img{
+        /*width: 95%;*/
+        display: none;
+    }
 
 	/* フッター内パーツ */
 	
@@ -1009,7 +1035,25 @@ input.s{
 		padding-left: 15px;
 		padding-right: 5px;
 		padding-top: 0;
-	}
+    }
+    #hpb-wrapper #toppage-activity{
+        width: 100%;
+    }
+    
+    #hpb-wrapper #toppage-activity h3{
+        margin-top: 10px;
+        margin-right: 0;
+        margin-bottom: 10px;
+        margin-left: 0;
+        padding-top: 10px;
+        padding-bottom: 12px;
+        padding-left: 40px;
+    }
+    
+    #hpb-wrapper #toppage-activity img{
+        margin-right: 10px;
+        margin-left: 10px;
+    }
 
 
 }

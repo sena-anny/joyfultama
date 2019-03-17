@@ -4,49 +4,49 @@
     <loc>http://www.joyfultama.com/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2018-10-14T02:39:41+00:00</lastmod>
+    <lastmod>2019-03-17T01:37:45+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
     <loc>http://www.joyfultama.com/aboutjoy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2018-09-02T05:44:03+00:00</lastmod>
+    <lastmod>2019-03-17T02:31:51+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
     <loc>http://www.joyfultama.com/aboutjoyful.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2019-01-01T09:20:44+00:00</lastmod>
+    <lastmod>2019-03-17T03:16:46+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
     <loc>http://www.joyfultama.com/access.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2018-09-02T05:59:39+00:00</lastmod>
+    <lastmod>2019-03-03T02:29:30+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
     <loc>http://www.joyfultama.com/contact.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2018-09-02T05:41:41+00:00</lastmod>
+    <lastmod>2019-03-03T02:29:30+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
     <loc>http://www.joyfultama.com/project.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2018-09-02T05:41:41+00:00</lastmod>
+    <lastmod>2019-03-03T02:29:30+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
     <loc>http://www.joyfultama.com/recruitment.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2018-09-02T05:41:41+00:00</lastmod>
+    <lastmod>2019-03-03T02:29:30+00:00</lastmod>
     <mobile:mobile />
   </url>
   <url>
@@ -103,6 +103,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <lastmod>2016-03-05T13:24:15+00:00</lastmod>
+    <mobile:mobile />
+  </url>
+  <url>
+    <loc>http://www.joyfultama.com/review.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2019-03-17T02:29:01+00:00</lastmod>
     <mobile:mobile />
   </url>
 </urlset>
