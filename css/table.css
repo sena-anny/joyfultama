@@ -1,4 +1,11 @@
 /*------------ table style set ------------*/
+table{
+	border: solid 1px;
+	width: 527px;
+	border-spacing: 0;
+	padding: 2;
+}
+
 .hpb-cnt-tb1{
 	background-color: #333333;
 	border-top-width: 1px;
@@ -101,3 +108,20 @@
 	border-bottom-color: #CCCCCC;
 	border-left-color: #CCCCCC;
 }
+
+@media screen and (max-width: 568px) {
+
+	.review-table {
+		width: 100%;
+	}
+
+	table {
+		-moz-box-sizing: content-box;
+		box-sizing: content-box;
+		width: 100% !important;
+	}
+
+
+}
+
+

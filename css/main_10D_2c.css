@@ -34,6 +34,11 @@
     overflow: hidden;
 }
 
+.hpb-headerTitle a{
+    text-decoration: none !important;
+    color: #333333 !important;
+}
+
 .hpb-headerTitle {
     width: 300px;
     padding-left: 20px;
@@ -845,6 +850,7 @@ input.s{
     }
     #hpb-headerLogo img{
         float: none;
+        display: none;
     }
     .hpb-headerTitle{
         margin-left: auto;
@@ -955,7 +961,8 @@ input.s{
 		overflow: visible;
 	}
 	.hpb-layoutset-02 h2 span.ja{
-		display:block;
+        display:block;
+        font-size: 1em;
 		padding-top: 12px;
 		padding-right: 10px;
 	}
@@ -1054,6 +1061,5 @@ input.s{
         margin-right: 10px;
         margin-left: 10px;
     }
-
 
 }

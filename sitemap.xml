@@ -50,61 +50,6 @@
     <mobile:mobile />
   </url>
   <url>
-    <loc>http://www.joyfultama.com/sp/index.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:24:31+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/aboutjoy.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-27T12:02:12+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/aboutjoyful.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:23:02+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/access.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:23:51+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/contact.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:23:34+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/project.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:23:59+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/recruitment.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:23:42+00:00</lastmod>
-    <mobile:mobile />
-  </url>
-  <url>
-    <loc>http://www.joyfultama.com/sp/topics.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <lastmod>2016-03-05T13:24:15+00:00</lastmod>
-    <mobile:mobile />
-  </url>
   <url>
     <loc>http://www.joyfultama.com/review.html</loc>
     <changefreq>monthly</changefreq>

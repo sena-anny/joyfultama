@@ -498,6 +498,9 @@ height: 100%;
 	.hpb-layoutset-02 h2{
     /* コンテンツタイトルの左右設定 */
     margin-left: auto;
-	}
+    }
+    .hpb-layoutset-01 #hpb-title h2 {
+        font-size: 1.2em;
+    }
 
 }
