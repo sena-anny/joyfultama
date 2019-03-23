@@ -64,7 +64,7 @@ header{
     padding-right: 30px;
     background-position: bottom center;
     background-repeat: no-repeat;
-    background-image : url(http://localhost/casa_feliz/images/mainimage_10D_01.png);
+    /*background-image : url(http://localhost/casa_feliz/images/mainimage_10D_01.png);*/
 }
 
 #hpb-inner::after, .hpb-layoutset-01 #hpb-wrapper::after{
