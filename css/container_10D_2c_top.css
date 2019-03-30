@@ -8,7 +8,7 @@ body{
     font-size: 75%;
     font-family: 'メイリオ' ,Meiryo, 'ヒラギノ角ゴ Pro W3' , 'Hiragino Kaku Gothic Pro' , 'ＭＳ Ｐゴシック' , 'Osaka' ,sans-serif;
     color: #333333; /* 標準文字色 */
-    background-image : url(http://localhost/casa_feliz/images/bg_10D.png);
+    background-image : url(images/bg_10D.png);
 }
 /* Safari用ハック 文字サイズ調整 */
 /*\*/
@@ -34,7 +34,7 @@ img{
     margin-bottom: 0;
     margin-left: auto;
     position: relative;
-    background-image : url(http://localhost/casa_feliz/images/innerBg_10D.png);
+    background-image : url(images/innerBg_10D.png);
     background-repeat: repeat-y;
     background-position: center top;
 }
@@ -44,7 +44,7 @@ header{
     margin-left: auto;
     margin-right: auto;
     overflow: hidden;
-    background-image : url(http://localhost/casa_feliz/images/bg_10D.png);
+    background-image : url(images/bg_10D.png);
     background-position: center top;
 }
 
@@ -64,7 +64,7 @@ header{
     padding-right: 30px;
     background-position: bottom center;
     background-repeat: no-repeat;
-    /*background-image : url(http://localhost/casa_feliz/images/mainimage_10D_01.png);*/
+    /*background-image : url(images/mainimage_10D_01.png);*/
 }
 
 #hpb-inner::after, .hpb-layoutset-01 #hpb-wrapper::after{
@@ -140,13 +140,13 @@ footer{
     clear: both;
     position: relative;
     padding-bottom: 20px;
-    background-image : url(http://localhost/casa_feliz/images/bg_10D.png);
+    background-image : url(images/bg_10D.png);
     background-repeat: repeat;
     background-position: top center;
 }
 #hpb-footerMain{
     padding-top: 30px;
-    background-image : url(http://localhost/casa_feliz/images/footerBg_10D.png);
+    background-image : url(images/footerBg_10D.png);
     background-position: top center;
     background-repeat: no-repeat;
 }
@@ -161,7 +161,7 @@ footer{
     height: 46px;
     width: 890px;
     overflow: hidden;
-    background-image : url(http://localhost/casa_feliz/images/navBg_10D_01.png);
+    background-image : url(images/navBg_10D_01.png);
     background-position: center bottom;
     background-repeat: no-repeat;
     top: -46px;
@@ -173,7 +173,7 @@ footer{
 /* コンテンツ配置領域 */
 /* トップページメインイメージ */
 .hpb-layoutset-01 #hpb-title h2{
-    background-image : url(http://localhost/casa_feliz/images/topTitleBg_10D.png);
+    background-image : url(images/topTitleBg_10D.png);
     text-align: left;
     overflow: hidden;
     margin-top: 0;
@@ -248,28 +248,28 @@ footer{
 #hpb-nav a:link{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(http://localhost/casa_feliz/images/navItemBg_10D_01.png);
+    background-image : url(images/navItemBg_10D_01.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
 #hpb-nav a:visited{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(http://localhost/casa_feliz/images/navItemBg_10D_01.png);
+    background-image : url(images/navItemBg_10D_01.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
 #hpb-nav a:hover{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(http://localhost/casa_feliz/images/navItemBg_10D_01_on.png);
+    background-image : url(images/navItemBg_10D_01_on.png);
     background-position: top left;
     background-repeat: no-repeat;
 }
 #hpb-nav a:active{
     color: #ffffff;
     text-decoration: none;
-    background-image : url(http://localhost/casa_feliz/images/.png);
+    background-image : url(images/.png);
     background-position: top left;
     background-repeat: no-repeat;
 }

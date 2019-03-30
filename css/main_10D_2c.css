@@ -90,7 +90,7 @@
     display: block;
     font-size: 1.5em;
     padding-left: 40px;
-    background-image : url(http://localhost/casa_feliz/images/tel.png);
+    background-image : url(images/tel.png);
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -99,7 +99,7 @@
     display: block;
     font-size: 1.5em;
     padding-left: 40px;
-    background-image : url(http://localhost/casa_feliz/images/address.png);
+    background-image : url(images/address.png);
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -156,7 +156,7 @@
 
 a#banner-access{
     /* アクセスバナー */
-    background-image : url(http://localhost/casa_feliz/images/access-banner.png);
+    background-image : url(images/access-banner.png);
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -167,7 +167,7 @@ a#banner-access:hover{
 
 a#banner-joyful{
     /* ジョイフルバナー */
-    background-image : url(http://localhost/casa_feliz/images/joyful-banner.png);
+    background-image : url(images/joyful-banner.png);
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -178,7 +178,7 @@ a#banner-joyful:hover{
 
 /* 店舗情報 */
 #shopinfo{
-    background-image : url(http://localhost/casa_feliz/images/shopInfoBg_10D_bottom.png);
+    background-image : url(images/shopInfoBg_10D_bottom.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     padding-bottom: 8px;
@@ -190,7 +190,7 @@ a#banner-joyful:hover{
     text-align: center;
     color: #fc9d16;
     font-weight: normal;
-    background-image : url(http://localhost/casa_feliz/images/shopinfoTitle_10D.png);
+    background-image : url(images/shopinfoTitle_10D.png);
     background-repeat: no-repeat;
     background-position: right top;
     padding-left: 20px;
@@ -211,7 +211,7 @@ a#banner-joyful:hover{
     padding-top: 10px;
     color: #000000;
     font-weight: normal;
-    background-image : url(http://localhost/casa_feliz/images/shopinfoBg_10D.png);
+    background-image : url(images/shopinfoBg_10D.png);
     background-repeat: repeat-y;
     background-position: right center;
     padding-left: 20px;
@@ -225,7 +225,7 @@ a#banner-joyful:hover{
     margin-right: 0;
     margin-bottom: 0;
     line-height: 1.5;
-    background-image : url(http://localhost/casa_feliz/images/shopinfoBg_10D.png);
+    background-image : url(images/shopinfoBg_10D.png);
     background-repeat: repeat-y;
     background-position: right center;
     padding-left: 20px;
@@ -238,7 +238,7 @@ a#banner-joyful:hover{
     font-size: 1em;
     padding-top: 10px;
     padding-left: 35px;
-    background-image : url(http://localhost/casa_feliz/images/address.png);
+    background-image : url(images/address.png);
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -249,7 +249,7 @@ a#banner-joyful:hover{
     padding-top: 20px;
     padding-left: 35px;
     padding-bottom: 20px;
-    background-image : url(http://localhost/casa_feliz/images/tel.png);
+    background-image : url(images/tel.png);
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -260,7 +260,7 @@ a#banner-joyful:hover{
     padding-top: 10px;
     padding-left: 35px;
     padding-bottom: 10px;
-    background-image : url(http://localhost/casa_feliz/images/mail.png);
+    background-image : url(images/mail.png);
     background-position: left;
     background-repeat: no-repeat;
 }
@@ -355,7 +355,7 @@ hr{
 }
 
 .hpb-layoutset-02 h2{
-    background-image : url(http://localhost/casa_feliz/images/titleBg_10D.png);
+    background-image : url(images/titleBg_10D.png);
     background-position: top left;
     background-repeat: no-repeat;
     margin-top: 0px;
@@ -390,7 +390,7 @@ hr{
     padding-bottom: 12px;
     padding-left: 40px;
     text-align: left;
-    background-image : url(http://localhost/casa_feliz/images/indexBg_10D.png);
+    background-image : url(images/indexBg_10D.png);
     background-position: bottom left;
     background-repeat: no-repeat;
     color: #FD7700;
@@ -653,7 +653,7 @@ input.s{
     width: 580px;
     margin-right: auto;
     padding-bottom: 8px;
-    background-image : url(http://localhost/casa_feliz/images/toppageNewsBg_10D_01.png);
+    background-image : url(images/toppageNewsBg_10D_01.png);
     background-repeat: no-repeat;
     background-position: left bottom;
 }
@@ -665,7 +665,7 @@ input.s{
     padding-left: 45px;
     padding-top: 20px;
     font-size: 1.2em;
-    background-image : url(http://localhost/casa_feliz/images/topIndexBg_10D_01.png);
+    background-image : url(images/topIndexBg_10D_01.png);
     background-repeat: no-repeat;
     background-position: left bottom;
 }
@@ -684,7 +684,7 @@ input.s{
     background-color: #ffffff;
 }
 #hpb-wrapper #toppage-news dl dt{
-    background-image : url(http://localhost/casa_feliz/images/point_10D.png);
+    background-image : url(images/point_10D.png);
     background-repeat: no-repeat;
     background-position: left center;
     padding-left: 15px;
@@ -700,7 +700,7 @@ input.s{
     width: 580px;
     margin-right: auto;
     padding-bottom: 8px;
-    background-image : url(http://localhost/casa_feliz/images/toppageNewsBg_10D_01.png);
+    background-image : url(images/toppageNewsBg_10D_01.png);
     background-repeat: no-repeat;
     background-position: left bottom;
 }
@@ -714,7 +714,7 @@ input.s{
     padding-bottom: 12px;
     padding-left: 40px;
     text-align: left;
-    background-image : url(http://localhost/casa_feliz/images/indexBg_10D.png);
+    background-image : url(images/indexBg_10D.png);
     background-position: bottom left;
     background-repeat: no-repeat;
     color: #FD7700;
@@ -935,7 +935,7 @@ input.s{
 	#hpb-nav h3.hpb-c-index{
 		width: 27px;
 		height: 20px;
-		background-image : url(http://localhost/casa_feliz/images/btn_menu.png);
+		background-image : url(images/btn_menu.png);
 		background-position: top left;
 		background-repeat: no-repeat;
 		margin-left: 10px;

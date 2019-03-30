@@ -1,7 +1,7 @@
 function header(){
   //console.log( "text" );
   $.ajax({
-    url: "http://localhost/casa_feliz/include/header.html",
+    url: "include/header.html",
     cache: false,
     async: false,
     dataType: 'html',
@@ -14,7 +14,7 @@ function header(){
 function navi(){
   //console.log( "text" );
   $.ajax({
-    url: "http://localhost/casa_feliz/include/navi.html",
+    url: "include/navi.html",
     cache: false,
     async: false,
     dataType: 'html',
@@ -27,7 +27,7 @@ function navi(){
 function aside(){
   //console.log( "text" );
   $.ajax({
-    url: "http://localhost/casa_feliz/include/aside.html",
+    url: "include/aside.html",
     cache: false,
     async: false,
     dataType: 'html',
@@ -40,7 +40,7 @@ function aside(){
 function footer(){
   //console.log( "text" );
   $.ajax({
-    url: "http://localhost/casa_feliz/include/footer.html",
+    url: "include/footer.html",
     cache: false,
     async: false,
     dataType: 'html',
